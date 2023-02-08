@@ -7,6 +7,6 @@
 SAC é a sigla para Sistema de Amortização Constante. A cada parcela paga do financiamento, um valor constante é descontado do saldo devedor.
 
 Para facilitar o cálculo e a geração da tabela com a quantidade de juros e saldo devedor a cada parcela, sege um pacote em python que recebe como input o valor a ser financiado, o prazo em meses e a taxa de juros mensal.
-- [Github](https://lnkd.in/d-xjhsc9)
-- [Documentação](https://lnkd.in/dgax4g-g)
-- [Pypi](https://lnkd.in/dnmw9h9c)
+- [Github](https://github.com/joaopcnogueira/tabela-sac)
+- [Documentação](https://joaopcnogueira.github.io/tabela-sac/)
+- [Pypi](https://pypi.org/project/tabela-sac/)
